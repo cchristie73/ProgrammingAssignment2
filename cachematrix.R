@@ -1,7 +1,7 @@
-## Making a pair of functions to demnstrate ho to cache the
+## Making a pair of functions to demonstrate how to cache the
 ## inverse of a matrix
 
-## This function will create a special matrix that can cache its invers
+## This function will create a special matrix that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
